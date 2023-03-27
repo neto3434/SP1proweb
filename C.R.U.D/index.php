@@ -17,15 +17,15 @@
           </div>
             </br>
             <div class="row">
-                <h4>Clique no botão verde abaixo para inserir um novo contato.</h4>
+                <h4>Clique no botão VERDE abaixo para inserir um novo contato.</h4>
                 <table class="table table-dark">
                     <thead>
                         <tr>
                             <!-- <th scope="col">Id</th> -->
-                            <th scope="col">Nome</th>
+                            <th scope="col">NOME</th>
                             <th scope="col">CPF</th>
-                            <th scope="col">Email</th>
-                            <th scope="col">Ação</th>
+                            <th scope="col">EMAIL</th>
+                            <th scope="col">AÇÃO</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -55,7 +55,7 @@
                     </tbody>
                 </table>
                 <p>
-                <a href="create.php" class="btn btn-success">Adicionar</a>
+                <a href="create.php" class="btn btn-success">ADICIONAR</a>
                 </p>
             </div>
         </div>
